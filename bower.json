@@ -1,0 +1,20 @@
+{
+  "name": "ushell-module-vscode",
+  "homepage": "https://github.com/afeiship/ushell-module-vscode",
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "description": "Unix like shell module for vscode.",
+  "main": "index.sh",
+  "keywords": [
+    "ushell"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
