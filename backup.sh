@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BACKUP_PATH="$HOME/git-oschina/backup-mac-files/vscode-settings";
+BACKUP_PATH="$HOME/git-oschina/backup-mac-files/vscode";
 VSCODE_PATH="$HOME/Library/Application Support/Code/User";
 cd "$VSCODE_PATH";
 
