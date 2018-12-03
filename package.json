@@ -1,6 +1,6 @@
 {
   "name": "ushell-module-vscode",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Unix like shell module for vscode.",
   "main": "index.sh",
   "repository": {
