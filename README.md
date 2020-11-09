@@ -3,7 +3,7 @@
 
 ## install
 ```shell
-npm i @feizheng/ushell-module-vscode
+npm i @jswork/ushell-module-vscode
 ```
 
 ## resources

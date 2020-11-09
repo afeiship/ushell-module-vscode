@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-vscode",
+  "name": "@jswork/ushell-module-vscode",
   "version": "1.0.0",
   "description": "Unix like shell module for vscode.",
   "main": "index.sh",
