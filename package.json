@@ -8,16 +8,15 @@
     "url": "git+https://github.com/afeiship/ushell-module-vscode.git"
   },
   "keywords": [
-    "ushell",
-    "unix",
     "shell",
-    "system",
-    "infomation"
+    "vscode"
   ],
   "author": "afei",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-vscode/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-vscode#readme"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
