@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-vscode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unix like shell module for vscode.",
   "main": "index.sh",
   "repository": {
@@ -9,13 +9,17 @@
   },
   "keywords": [
     "shell",
-    "vscode"
+    "vscode",
+    "unix",
+    "ushell",
+    "alias",
+    "aliases"
   ],
-  "author": "afei",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-vscode/issues"
   },
+  "homepage": "https://github.com/afeiship/ushell-module-vscode",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   }
