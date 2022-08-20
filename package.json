@@ -1,11 +1,14 @@
 {
   "name": "@jswork/ushell-module-vscode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Unix like shell module for vscode.",
   "main": "index.sh",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/afeiship/ushell-module-vscode.git"
+  },
+  "scripts": {
+    "release": "release-it"
   },
   "keywords": [
     "shell",
