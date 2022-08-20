@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/afeiship/ushell-module-vscode",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "release-it": "^15.3.0"
   }
 }

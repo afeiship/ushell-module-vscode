@@ -3,5 +3,6 @@
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
 alias c="code .";
+alias ci="code-insiders .";
 
 unset ROOT_PATH;
